@@ -1,1 +1,1 @@
-bot/# trading_bot/bot package
+# trading_bot/bot package
