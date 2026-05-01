@@ -3,7 +3,7 @@ requests==2.31.0          # HTTP client for Binance REST API communication
 python-dotenv==1.0.0      # Secure .env credential loading
 
 # ── AI / ML dependencies ──────────────────────────────────────────────────────
-tensorflow==2.13.1        # LSTM neural network (Keras API) - pinned for stability
+
 scikit-learn==1.4.1       # MinMaxScaler, train_test_split
 pandas==2.2.0             # DataFrame for OHLCV data and feature engineering
 numpy==1.24.3             # Array operations (compatible with TF 2.15.1)
